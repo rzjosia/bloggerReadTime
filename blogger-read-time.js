@@ -36,7 +36,7 @@ if (element && readTimeElement) {
 
     readTimeElement.style.fontSize = "0.7em";
     readTimeElement.style.fontFamily = "Helvetica, Arial, sans-serif";  
-    readTimeElement.style.backgroundColor = "#ff0000";
+    readTimeElement.style.backgroundColor = "#ffff00";
     readTimeElement.style.padding = "0.2em 0.5em";
     readTimeElement.style.borderRadius = "0.45em";
     readTimeElement.style.boxShadow = "1px 5px 5px #333";

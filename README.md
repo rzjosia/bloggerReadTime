@@ -7,5 +7,5 @@ A read time for blogger
 Load this script in you blogger
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/rzjosia/bloggerReadTime/blogger-read-time.js" defer></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/rzjosia/bloggerReadTime/blogger-read-time.min.js" defer></script>
 ```
