@@ -21,7 +21,7 @@ function getReadTime(text) {
     return `${minutes} ${unit}`;
 }
 
-const ELEMENT_SELECTOR = ".post-body-container";
+const ELEMENT_SELECTOR = ".post-body.entry-content";
 const READTIME_SELECTOR = "small";
 
 const element = document.querySelector(ELEMENT_SELECTOR);
